@@ -51,6 +51,8 @@ https://www.embalses.net/
 ## Gestión y limpieza de datos (EDA)
 Una vez descargado los datos, hemos realizado un análisis inicial para investigar la utilidad de los datos. Limpiamos aquellos que resultarón interesantes y que estaban relacionados con lo que queríamos realizar, para acabar realizando una serie de preguntas cuyas respuestas salían de los datos obtenidos.
 
+Por otro, también hemos realizado algunos EDAs mostrando información y tablas sobre los datos anteriores.
+
 ## Machine Learning
 Con el objetivo de obtener respuesta de la última pregunta, hemos entrenado un modelo de regresión para predecir el volumen de agua de los embalses dentro de 1 año y así poder compararlo con el dato actual.
 
