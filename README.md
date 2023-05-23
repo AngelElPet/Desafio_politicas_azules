@@ -24,5 +24,7 @@ Una vez descargado los datos, hemos realizado un análisis inicial para investig
 ## Machine Learning
 Con el objetivo de obtener respuesta de la última pregunta, hemos entrenado un modelo de regresión para predecir el volumen de agua de los embalses dentro de 1 año y así poder compararlo con el dato actual.
 
-## Cloud (con mucha lluvia en Almería)
-Hemos realizado una instancia en EC2 para que la rama de Full Stack pueda consumirla como APIrest
+## Cloud 
+Hemos realizado una instancia en EC2 para que la rama de Full Stack pueda consumirla como APIrest el modelo de regresión anterior. Además, también les facilitamos un json con la ubicación de todos los embalses de España para que pudiesen representarlo con OpenStreetMap.
+
+
