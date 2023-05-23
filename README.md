@@ -1,5 +1,17 @@
 # Desafio_politicas_azules
+Colaboradores:
+
+1.- Alberto Gracía de Lara
+
+2.- Alberto Martín Gelado
+
+3.- Ángel Cebriá Morales
+
+4.- Diego J Martínez Tortosa
  
+5.- Jorge Férnandez Ávila
+
+6.- Silvia Quintana González
 ## Estracción de datos
 Hemos volcado datos de los siguientes enlaces:
 
